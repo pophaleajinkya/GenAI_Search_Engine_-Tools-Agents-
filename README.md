@@ -2,7 +2,7 @@
 
 Building a GenAI Search Engine Application with Tools and Agents Using Streamlit as the UI is a project focused on creating an intelligent search engine powered by Generative AI. This application utilizes tools and agents from frameworks like LangChain to enhance search capabilities, while Streamlit provides an interactive and user-friendly interface for end users.
 
-Key Features:
+# Key Features:
 Generative AI Integration: The search engine leverages advanced language models to generate context-aware and human-like responses to user queries.
 
 Tools and Agents: The application uses agents (autonomous LLMs) that can dynamically select the best tools or models to handle complex search tasks. Tools include knowledge bases, document retrievers, or APIs.
