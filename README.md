@@ -15,7 +15,14 @@ Enhanced Accuracy: By utilizing retrieval-augmented generation (RAG) techniques,
 
 This project demonstrates how to harness the power of Generative AI, tools, and agents to build a powerful search solution, with Streamlit offering a simple yet effective UI for users to interact with the search engine in real time.
 
-
+The below Image is of the initial display page we get when we run the code.
+<img width="1710" alt="Screenshot 2024-09-17 at 10 36 49 AM" src="https://github.com/user-attachments/assets/62098329-e347-4c8d-a194-5356d961fd98">
+This image is displayed once we enter our GroqAPI and then give a prompt as the user input.
+<img width="1709" alt="Screenshot 2024-09-17 at 10 37 22 AM" src="https://github.com/user-attachments/assets/d9f6a7c0-b3ff-420b-ae71-5e3c823bfeef">
+This image shows us the thought process of the model and it's successive output.
+<img width="1710" alt="Screenshot 2024-09-17 at 10 37 32 AM" src="https://github.com/user-attachments/assets/d9c27b83-389d-4da2-b572-eb8bd358cb28">
+This image shows the final answer the model is able to generate based on it's itreative thought process.
+<img width="1710" alt="Screenshot 2024-09-17 at 11 16 45 AM" src="https://github.com/user-attachments/assets/be6ac71b-84a9-4dcf-98c9-a8e66cd61167">
 
 
 
